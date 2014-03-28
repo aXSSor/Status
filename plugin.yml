@@ -1,0 +1,8 @@
+name: Status
+main: io.github.aXSSor.Main
+version: 1.0.6
+author: aXSSor
+
+commands:
+    stats:
+        description: Opening player status
